@@ -31,11 +31,20 @@
 
 ## 🚀 Featured Projects
 
-- 🤖 AI-Powered JARVIS Assistant *(In Progress)*
-- 🦾 Iron Man Vision System *(In Progress)*
-- 🛒 Human Following Robot
-- 🌐 Automated Content Generator
-- 📱 React Web Applications
+### 🤖 AI Assistant
+An intelligent voice assistant built with Python, OpenCV, and AI technologies to automate everyday tasks.
+
+### 👁️ Computer Vision Applications
+Real-time computer vision projects using OpenCV for object detection, tracking, and automation.
+
+### 🌐 Full Stack Web Applications
+Modern web applications developed using React, Node.js, Express, and MongoDB.
+
+### 🤖 Embedded Systems & Robotics
+Robotics projects involving Arduino, sensors, and automation for solving real-world problems.
+
+### 💡 AI & Automation Projects
+Exploring Artificial Intelligence, automation, and software engineering through practical projects.
 
 ---
 
