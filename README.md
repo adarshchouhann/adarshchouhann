@@ -21,6 +21,26 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,linux" />
 </p>
 
+---
+
+## 💼 Areas of Interest
+
+- Software Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Computer Vision
+- Robotics
+- Open Source
+
+---
+
+## 🎯 2026 Goals
+
+- Build 10+ real-world projects
+- Master Data Structures & Algorithms
+- Contribute to Open Source
+- Secure a Software Engineering Internship
+- Strengthen AI & Full Stack skills
 
 ---
 
